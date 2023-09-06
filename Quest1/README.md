@@ -1,7 +1,6 @@
 - 코더 : 김영준
 - 리뷰어 : dayeon
-![Uploading image.png…]()
-
+![image](https://github.com/AIFFEL-SO-4th/aiffel_repo/assets/112140981/ae881bb4-3ae0-4cd1-95ba-4a55739ba0e5)
 
 # PRT(PeerReviewTemplate)
 각 항목을 스스로 확인하고 토의하여 작성한 코드에 적용합니다.
